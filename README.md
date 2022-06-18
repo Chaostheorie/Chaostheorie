@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cobalt</h1>
 <h3 align="center">A student from Berlin with a passion for GNU/Linux and programming.</h3>
 
-- 🔭 I’m currently working on **my Abitur**
+- 🔭 I’m currently working on **an internship**
 
 - 🌱 I’m currently picking up **Golang**
 
