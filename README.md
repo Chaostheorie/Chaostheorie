@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Rust, Python and GNU/Linux**
 
-- 📫 How to reach me **cobalt@cobalt.rocks**
+- 📫 You can reach me at **cobalt@cobalt.rocks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
