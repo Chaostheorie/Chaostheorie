@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cobalt</h1>
 <h3 align="center">A student from Berlin with a passion for GNU/Linux and programming.</h3>
 
-- 🔭 I’m currently preparing for university
+- 🔭 I’m studying Computer Science at TU Berlin and working as a student assistant at ZIB
 
-- 🌱 I’m currently picking up **Golang and Elixir**
+- 🌱 I’m currently picking up **Golang and C**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.cobalt.rocks/cobalt/](https://gitlab.cobalt.rocks/cobalt/)
 
