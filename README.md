@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **Nix, Golang and Rust**
 
-- 👨‍💻 All of my projects are available at [https://git.cobalt.rocks/cobalt/](https://git.cobalt.rocks/cobalt/)
+- 👨‍💻 All of my projects are available at [https://git.cobalt.rocks/cobalt/](https://git.cobalt.rocks/cobalt/). This account is only for contributions to OSS projects on GitHub.
 
 - 📫 How to reach me **cobalt@cobalt.rocks**
